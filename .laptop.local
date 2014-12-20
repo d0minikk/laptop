@@ -45,3 +45,7 @@ fancy_echo "Installing vlc for movies ..."
   brew cask install vlc
 fancy_echo "Installing spotify for nice music ..."
   brew cask install spotify
+fancy_echo "Installing powder for managing pow ..."
+  brew cask install powder
+fancy_echo "Installing anvil for menubar app for managing local apps ..."
+  brew cask install anvil
